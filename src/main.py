@@ -116,8 +116,8 @@ def a_estrella(inicio, objetivo):
 
 
 # Ejecución de los algoritmos
-inicio = "Logroño"
-objetivo = "Valencia"
+inicio = "Zaragoza"
+objetivo = "Cuenca"
 
 camino_avariciosa, distancia_avariciosa = busqueda_avariciosa(inicio, objetivo)
 camino_a_estrella, distancia_a_estrella = a_estrella(inicio, objetivo)
